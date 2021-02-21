@@ -1,1 +1,3 @@
-This is Konrad's repository
+# participants
+Exercises for lecture on git
+advanced Github!
